@@ -1,0 +1,12 @@
+### Anotações ###
+
+** Rotas **
+- é onde tudo inicia e termina
+- As rotas do arquivo web.php, sempre retornarão uma view. esta view foi declarada no diretorio resources/views/exemplo.blade.php
+
+** Blade **
+(template engine do laravel)
+- recebe tags do html
+- recebe dados do banco
+- podemos adicionar diretivas, para motrarmos algum dado ou executarmos uma condicional (if/else, foreach, etc...)
+
